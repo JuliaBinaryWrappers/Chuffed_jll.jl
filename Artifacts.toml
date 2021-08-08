@@ -1,0 +1,288 @@
+[[Chuffed]]
+arch = "aarch64"
+git-tree-sha1 = "89a243e23ccb4b0f5bc07174e2c473d3fd9ac1fb"
+os = "macos"
+
+    [[Chuffed.download]]
+    sha256 = "8df95f1786b73755ef2545a08ad5839afa0ebb51295635ac3c5d68fe5bc147ad"
+    url = "https://github.com/JuliaBinaryWrappers/Chuffed_jll.jl/releases/download/Chuffed-v0.10.4+0/Chuffed.v0.10.4.aarch64-apple-darwin.tar.gz"
+[[Chuffed]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d94f4affaaba4dcec6e13ad66dfc841a576f215a"
+libc = "glibc"
+os = "linux"
+
+    [[Chuffed.download]]
+    sha256 = "bffd6799ecab5ebb1e91f7c0dfa350aed86e410d4ecfa623b33c7ca7e233e78c"
+    url = "https://github.com/JuliaBinaryWrappers/Chuffed_jll.jl/releases/download/Chuffed-v0.10.4+0/Chuffed.v0.10.4.aarch64-linux-gnu-cxx03.tar.gz"
+[[Chuffed]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b43c5cbe92cb22c5ef486805e39f09cf27005d26"
+libc = "glibc"
+os = "linux"
+
+    [[Chuffed.download]]
+    sha256 = "bbf28772d6afc2b76087fc43566cfe3141174a6b57f2a17bfed19d8363a59976"
+    url = "https://github.com/JuliaBinaryWrappers/Chuffed_jll.jl/releases/download/Chuffed-v0.10.4+0/Chuffed.v0.10.4.aarch64-linux-gnu-cxx11.tar.gz"
+[[Chuffed]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b4715ce83088f59e9795a39da84bd5929406ad08"
+libc = "musl"
+os = "linux"
+
+    [[Chuffed.download]]
+    sha256 = "302a27dc4959a4210009d144cceb2bce297e309515cc75dcb922ea1977a16ff7"
+    url = "https://github.com/JuliaBinaryWrappers/Chuffed_jll.jl/releases/download/Chuffed-v0.10.4+0/Chuffed.v0.10.4.aarch64-linux-musl-cxx03.tar.gz"
+[[Chuffed]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1c6c394b1531cb239ded88c7cb8f0c0875c75cf9"
+libc = "musl"
+os = "linux"
+
+    [[Chuffed.download]]
+    sha256 = "eb5badd1cc9ad79aae1ab618192fde1f94b44d85ed425017eb08ecdf106de060"
+    url = "https://github.com/JuliaBinaryWrappers/Chuffed_jll.jl/releases/download/Chuffed-v0.10.4+0/Chuffed.v0.10.4.aarch64-linux-musl-cxx11.tar.gz"
+[[Chuffed]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "41fdd6641c0aa316fd0f7bc2e0d4aee9ae33db27"
+libc = "glibc"
+os = "linux"
+
+    [[Chuffed.download]]
+    sha256 = "bf0d34c697d85bc6e74df42362bfb21c2a93f56ddc1125b86ca269cdc2716bf2"
+    url = "https://github.com/JuliaBinaryWrappers/Chuffed_jll.jl/releases/download/Chuffed-v0.10.4+0/Chuffed.v0.10.4.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[Chuffed]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2a8994228ded614f99223c93748b346db370d80c"
+libc = "glibc"
+os = "linux"
+
+    [[Chuffed.download]]
+    sha256 = "49e8ce30a78bf52f6aae5cbe9b171e22e060be355e4a31d268ef64c29f0db493"
+    url = "https://github.com/JuliaBinaryWrappers/Chuffed_jll.jl/releases/download/Chuffed-v0.10.4+0/Chuffed.v0.10.4.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[Chuffed]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "91bd99c33c16f592982972d3c654b49c16d9b22c"
+libc = "musl"
+os = "linux"
+
+    [[Chuffed.download]]
+    sha256 = "3da3439cd18a5268a76f5be542c7f1e66282afc3424902b8905515ab990a082d"
+    url = "https://github.com/JuliaBinaryWrappers/Chuffed_jll.jl/releases/download/Chuffed-v0.10.4+0/Chuffed.v0.10.4.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[Chuffed]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7856d75d7fe71b730adc6acc69180f675e7aec92"
+libc = "musl"
+os = "linux"
+
+    [[Chuffed.download]]
+    sha256 = "2d7d319f34db17f8038ca2ba5bc5f12b214731eab5a9ab9c0189e3dd0a3481a4"
+    url = "https://github.com/JuliaBinaryWrappers/Chuffed_jll.jl/releases/download/Chuffed-v0.10.4+0/Chuffed.v0.10.4.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[Chuffed]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "255de18e5734f37bb666bfc331f80cc9749d023b"
+libc = "glibc"
+os = "linux"
+
+    [[Chuffed.download]]
+    sha256 = "6309b3d357cdf62d022622edc8900e935de88595a723c4444371b83c65eda862"
+    url = "https://github.com/JuliaBinaryWrappers/Chuffed_jll.jl/releases/download/Chuffed-v0.10.4+0/Chuffed.v0.10.4.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[Chuffed]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1a3a20d6b05a105c931a36f95aeacda9b62b4827"
+libc = "glibc"
+os = "linux"
+
+    [[Chuffed.download]]
+    sha256 = "a23dfddebfc07b874c717d57fd13eef09230c5186d7bbc2597c1031e10ec643a"
+    url = "https://github.com/JuliaBinaryWrappers/Chuffed_jll.jl/releases/download/Chuffed-v0.10.4+0/Chuffed.v0.10.4.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[Chuffed]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ae5f8e97384e1201976874ff3f6b150c4bd914ce"
+libc = "musl"
+os = "linux"
+
+    [[Chuffed.download]]
+    sha256 = "712da89297d4a3669697c3a608281a612c42d13ff2d42d7c8adf307e694facd7"
+    url = "https://github.com/JuliaBinaryWrappers/Chuffed_jll.jl/releases/download/Chuffed-v0.10.4+0/Chuffed.v0.10.4.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[Chuffed]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4b5144250af950d11d666324d30a35f172f14a3d"
+libc = "musl"
+os = "linux"
+
+    [[Chuffed.download]]
+    sha256 = "f86e5f95af65fc0d1284b5ddac9ab1ac89e890d699772a507e134d026a998642"
+    url = "https://github.com/JuliaBinaryWrappers/Chuffed_jll.jl/releases/download/Chuffed-v0.10.4+0/Chuffed.v0.10.4.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[Chuffed]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d542c6b18785a76d2e77d2aa83af35bb3882510c"
+libc = "glibc"
+os = "linux"
+
+    [[Chuffed.download]]
+    sha256 = "c00e762dbb827e115e4c979a3ce25f8cd56e694aee8e2748d1debbe78015a01b"
+    url = "https://github.com/JuliaBinaryWrappers/Chuffed_jll.jl/releases/download/Chuffed-v0.10.4+0/Chuffed.v0.10.4.i686-linux-gnu-cxx03.tar.gz"
+[[Chuffed]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ac7095173602f582f54c8195ec8ba39779d7fe3d"
+libc = "glibc"
+os = "linux"
+
+    [[Chuffed.download]]
+    sha256 = "bfc2a445d25c6a87f2c860c983d7ab9b6da3484abfdf25183e7f4614d7095f09"
+    url = "https://github.com/JuliaBinaryWrappers/Chuffed_jll.jl/releases/download/Chuffed-v0.10.4+0/Chuffed.v0.10.4.i686-linux-gnu-cxx11.tar.gz"
+[[Chuffed]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "bdf7112bc1d7b702ad01fde2f20096191a4a3664"
+libc = "musl"
+os = "linux"
+
+    [[Chuffed.download]]
+    sha256 = "56b267e1aa5fff1cf1270878e9b2596e5a1a0c044431bfe7167b277f534376a2"
+    url = "https://github.com/JuliaBinaryWrappers/Chuffed_jll.jl/releases/download/Chuffed-v0.10.4+0/Chuffed.v0.10.4.i686-linux-musl-cxx03.tar.gz"
+[[Chuffed]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c423d35e4ac7d02b6aca1754f4417275ecc53f3d"
+libc = "musl"
+os = "linux"
+
+    [[Chuffed.download]]
+    sha256 = "dd9f93d09b34fe53051c62f656856a244f85667ef2cb5f71ff412abd05d8f84d"
+    url = "https://github.com/JuliaBinaryWrappers/Chuffed_jll.jl/releases/download/Chuffed-v0.10.4+0/Chuffed.v0.10.4.i686-linux-musl-cxx11.tar.gz"
+[[Chuffed]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "0835dc7d38128d416b7aff362ce2ccce1bcf640c"
+os = "windows"
+
+    [[Chuffed.download]]
+    sha256 = "9c1241af6243993e73a121228bb873bf7f7f279cea442d0e15c6862db620c58d"
+    url = "https://github.com/JuliaBinaryWrappers/Chuffed_jll.jl/releases/download/Chuffed-v0.10.4+0/Chuffed.v0.10.4.i686-w64-mingw32-cxx03.tar.gz"
+[[Chuffed]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7786e508a2aa906f176d05f198c5d74073856887"
+os = "windows"
+
+    [[Chuffed.download]]
+    sha256 = "93205198008fba6d9f40a872643758ce7387f534b3b783287dea3a613030ca8a"
+    url = "https://github.com/JuliaBinaryWrappers/Chuffed_jll.jl/releases/download/Chuffed-v0.10.4+0/Chuffed.v0.10.4.i686-w64-mingw32-cxx11.tar.gz"
+[[Chuffed]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d64c18d6cef85f0cb31459cdead5b0e9c1659c5f"
+libc = "glibc"
+os = "linux"
+
+    [[Chuffed.download]]
+    sha256 = "58e919c06b33129bf6eacd290929cf5ec5853be2ada1f9a4f8b48155562f6236"
+    url = "https://github.com/JuliaBinaryWrappers/Chuffed_jll.jl/releases/download/Chuffed-v0.10.4+0/Chuffed.v0.10.4.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[Chuffed]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a4c4042818626c4c265552d73cca5b5122ca0ec2"
+libc = "glibc"
+os = "linux"
+
+    [[Chuffed.download]]
+    sha256 = "e7429e9a7117c41df26a1c4e8986c35a7b160424d63f542e8ee2f3cf78915705"
+    url = "https://github.com/JuliaBinaryWrappers/Chuffed_jll.jl/releases/download/Chuffed-v0.10.4+0/Chuffed.v0.10.4.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[Chuffed]]
+arch = "x86_64"
+git-tree-sha1 = "3d101099493ef72978acae4a0a14eb1cbdb2a731"
+os = "macos"
+
+    [[Chuffed.download]]
+    sha256 = "4d408deb2ec37c9ec538c5cdb7d0ab45346b2e3f21d405372b09965c131234c1"
+    url = "https://github.com/JuliaBinaryWrappers/Chuffed_jll.jl/releases/download/Chuffed-v0.10.4+0/Chuffed.v0.10.4.x86_64-apple-darwin.tar.gz"
+[[Chuffed]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8b918ca02003664815ce9fdd110ab9c1f2b56bb3"
+libc = "glibc"
+os = "linux"
+
+    [[Chuffed.download]]
+    sha256 = "dc3b3c2c4c445a262609d74d4bcc42e1a025168bd3658d0ccf97a264da314448"
+    url = "https://github.com/JuliaBinaryWrappers/Chuffed_jll.jl/releases/download/Chuffed-v0.10.4+0/Chuffed.v0.10.4.x86_64-linux-gnu-cxx03.tar.gz"
+[[Chuffed]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "26f0e12691532e4862545aa64dc7a1415a2c8828"
+libc = "glibc"
+os = "linux"
+
+    [[Chuffed.download]]
+    sha256 = "eb520b77ce1f5680363babe06860fc59a83349f8fd815de8b1b83755e90b4b9a"
+    url = "https://github.com/JuliaBinaryWrappers/Chuffed_jll.jl/releases/download/Chuffed-v0.10.4+0/Chuffed.v0.10.4.x86_64-linux-gnu-cxx11.tar.gz"
+[[Chuffed]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "58445236b531c06386266f9c74e10b13e17d5d8e"
+libc = "musl"
+os = "linux"
+
+    [[Chuffed.download]]
+    sha256 = "8c10d8588cae3df7814fc3e1cca1253f1680417989ad37da0be71c2386ba8890"
+    url = "https://github.com/JuliaBinaryWrappers/Chuffed_jll.jl/releases/download/Chuffed-v0.10.4+0/Chuffed.v0.10.4.x86_64-linux-musl-cxx03.tar.gz"
+[[Chuffed]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "360edaf8dfde8115fc1c4f8eb2493cf6b93f7e73"
+libc = "musl"
+os = "linux"
+
+    [[Chuffed.download]]
+    sha256 = "c0936846f9d609c0692057c844762c68519fa73dad3692ca8938b6d44d64d960"
+    url = "https://github.com/JuliaBinaryWrappers/Chuffed_jll.jl/releases/download/Chuffed-v0.10.4+0/Chuffed.v0.10.4.x86_64-linux-musl-cxx11.tar.gz"
+[[Chuffed]]
+arch = "x86_64"
+git-tree-sha1 = "c93d67cabb5f161bf13e39121c776cb3e06bd177"
+os = "freebsd"
+
+    [[Chuffed.download]]
+    sha256 = "760a269917200d117ab55810f0931376d34bfcf4db275bbb43a0cfc73df4e688"
+    url = "https://github.com/JuliaBinaryWrappers/Chuffed_jll.jl/releases/download/Chuffed-v0.10.4+0/Chuffed.v0.10.4.x86_64-unknown-freebsd.tar.gz"
+[[Chuffed]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "50d7a1c37ad72fa43378c6dcb6bd0388a29d8d49"
+os = "windows"
+
+    [[Chuffed.download]]
+    sha256 = "76f276928a055d6a8dde9c11e56b897bea38fc095129a37303a4d81327aa83d2"
+    url = "https://github.com/JuliaBinaryWrappers/Chuffed_jll.jl/releases/download/Chuffed-v0.10.4+0/Chuffed.v0.10.4.x86_64-w64-mingw32-cxx03.tar.gz"
+[[Chuffed]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a3017d837595d9f580e2278bd4c8af488a6883ba"
+os = "windows"
+
+    [[Chuffed.download]]
+    sha256 = "42f4ea907b394c3a0d70c8d75361479627a49f378a8474248bb83a2bee27815a"
+    url = "https://github.com/JuliaBinaryWrappers/Chuffed_jll.jl/releases/download/Chuffed-v0.10.4+0/Chuffed.v0.10.4.x86_64-w64-mingw32-cxx11.tar.gz"
